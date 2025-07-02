@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, dyamavva</h1>
-<h3 align="center">A passionate developer/Solution Architect from India </h3>
+
 
 <br>
 <br>
